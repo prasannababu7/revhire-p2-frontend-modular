@@ -1,0 +1,1 @@
+frontend-bucket-name = "revhire-frontend-new-s3-bucket"
